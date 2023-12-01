@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "aOEj0R8X+uaVznk84l5odIx0r6wxM8tHqv/SJe+cdUwwhy2UZpguYZucquGqTm5tdlAaXIe6AdI2DgRpoQQCdQ==",
+  "success": true,
+  "projectFilePath": "/Users/aleksandrlukasuk/epam/Automated Testing Basics in .NET/Webdriver (ENG)/WebDriverTask2/WebDriverTask.Test/WebDriverTask.Test.csproj",
+  "expectedPackageFiles": [
+    "/Users/aleksandrlukasuk/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
+    "/Users/aleksandrlukasuk/.nuget/packages/microsoft.codecoverage/17.6.0/microsoft.codecoverage.17.6.0.nupkg.sha512",
+    "/Users/aleksandrlukasuk/.nuget/packages/microsoft.net.test.sdk/17.6.0/microsoft.net.test.sdk.17.6.0.nupkg.sha512",
+    "/Users/aleksandrlukasuk/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/aleksandrlukasuk/.nuget/packages/microsoft.testplatform.objectmodel/17.6.0/microsoft.testplatform.objectmodel.17.6.0.nupkg.sha512",
+    "/Users/aleksandrlukasuk/.nuget/packages/microsoft.testplatform.testhost/17.6.0/microsoft.testplatform.testhost.17.6.0.nupkg.sha512",
+    "/Users/aleksandrlukasuk/.nuget/packages/microsoft.win32.systemevents/7.0.0/microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "/Users/aleksandrlukasuk/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/Users/aleksandrlukasuk/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/aleksandrlukasuk/.nuget/packages/nuget.frameworks/5.11.0/nuget.frameworks.5.11.0.nupkg.sha512",
+    "/Users/aleksandrlukasuk/.nuget/packages/nunit/3.13.3/nunit.3.13.3.nupkg.sha512",
+    "/Users/aleksandrlukasuk/.nuget/packages/nunit.analyzers/3.6.1/nunit.analyzers.3.6.1.nupkg.sha512",
+    "/Users/aleksandrlukasuk/.nuget/packages/nunit3testadapter/4.2.1/nunit3testadapter.4.2.1.nupkg.sha512",
+    "/Users/aleksandrlukasuk/.nuget/packages/selenium.webdriver/4.15.0/selenium.webdriver.4.15.0.nupkg.sha512",
+    "/Users/aleksandrlukasuk/.nuget/packages/selenium.webdriver.chromedriver/119.0.6045.10500/selenium.webdriver.chromedriver.119.0.6045.10500.nupkg.sha512",
+    "/Users/aleksandrlukasuk/.nuget/packages/system.drawing.common/7.0.0/system.drawing.common.7.0.0.nupkg.sha512",
+    "/Users/aleksandrlukasuk/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
