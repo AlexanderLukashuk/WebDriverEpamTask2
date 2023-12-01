@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebDriverTask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+782b789810a588f45ab7becc5ab541ea87915cd0")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebDriverTask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebDriverTask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
