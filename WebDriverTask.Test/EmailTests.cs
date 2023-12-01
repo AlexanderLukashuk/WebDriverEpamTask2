@@ -31,6 +31,15 @@ namespace WebDriverTask.Test
             Assert.IsTrue(loginPage.IsLoginSuccessful(), "Login with correct credentials failed");
         }
 
+        [Test]
+        public void TestLoginAndPassword_WithInvalidCredentials_ReturnFalse()
+        {
+            loginPage.NavigateToLoginPage("https://the-internet.herokuapp.com/login");
+
+            loginPage.Login("tom", "12345");
+            Assert.IsFalse(loginPage.IsLoginSuccessful(), "Login with incorrect credentials failed");
+        }
+
         [TearDown]
         public void TearDown()
         {
