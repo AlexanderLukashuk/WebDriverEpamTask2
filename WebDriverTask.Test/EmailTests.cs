@@ -40,6 +40,15 @@ namespace WebDriverTask.Test
             Assert.IsFalse(loginPage.IsLoginSuccessful(), "Login with incorrect credentials failed");
         }
 
+        [Test]
+        public void TestLoginAndPassword_WithEmptyLoginAndPassword()
+        {
+            loginPage.NavigateToLoginPage("https://the-internet.herokuapp.com/login");
+
+            loginPage.Login("", "");
+            Assert.IsFalse(loginPage.IsLoginSuccessful(), "Login and password can't be empty");
+        }
+
         [TearDown]
         public void TearDown()
         {
