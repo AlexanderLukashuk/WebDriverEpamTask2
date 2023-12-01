@@ -35,8 +35,8 @@ namespace WebDriverTask.Models
         {
             try
             {
-                var successElement = webDriver.FindElement(By.CssSelector(".success-message"));
-                return successElement != null;
+                var successResult = webDriver.Url.Contains("secure");
+                return successResult;
             }
             catch (NoSuchElementException)
             {
