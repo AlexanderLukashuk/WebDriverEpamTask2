@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "wYJ8tNJ7hpywH3dEbWLDTRdDVvY9Q5hBQn1MO3EjnsSGZ57N+b7rywWUfTvm8TUhuITxT2AXm8tT4ODaz0/kdQ==",
+  "dgSpecHash": "VY174Tr27U6qP/zLf1Ytv6NJQQiptJlx6YuSgqnc8+IQ8+GCeqwTrpX4YUTGDauf1APPhAAu+7dActlGt+YYhg==",
   "success": true,
   "projectFilePath": "/Users/aleksandrlukasuk/epam/Automated Testing Basics in .NET/Webdriver (ENG)/WebDriverTask2/WebDriverTask/WebDriverTask.csproj",
   "expectedPackageFiles": [
     "/Users/aleksandrlukasuk/.nuget/packages/microsoft.win32.systemevents/7.0.0/microsoft.win32.systemevents.7.0.0.nupkg.sha512",
     "/Users/aleksandrlukasuk/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/aleksandrlukasuk/.nuget/packages/selenium.support/4.15.0/selenium.support.4.15.0.nupkg.sha512",
     "/Users/aleksandrlukasuk/.nuget/packages/selenium.webdriver/4.15.0/selenium.webdriver.4.15.0.nupkg.sha512",
     "/Users/aleksandrlukasuk/.nuget/packages/selenium.webdriver.chromedriver/119.0.6045.10500/selenium.webdriver.chromedriver.119.0.6045.10500.nupkg.sha512",
     "/Users/aleksandrlukasuk/.nuget/packages/system.drawing.common/7.0.0/system.drawing.common.7.0.0.nupkg.sha512"
